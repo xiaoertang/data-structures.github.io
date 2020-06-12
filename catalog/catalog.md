@@ -2,7 +2,7 @@
 
 ## 第一章：绪论
 
-- [数据结构基本概念和术语](https://github.com/xiaoertang/data-structures.github.io/blob/master/1-xulun/xulun.md)
+- [数据结构基本概念和术语](https://github.com/xiaoertang/data-structures.github.io/blob/master/1-introduction/introduction.md)
 
 ## 第二章：线性表
 
