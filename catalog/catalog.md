@@ -16,10 +16,10 @@
 
 ## 第三章：栈和队列
 
-- [顺序栈](https://github.com/xiaoertang/data-structures.github.io/blob/master3-stack-and-quence/1-sequence-stack.md)
+- [顺序栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/1-sequence-stack.md)
 - [链栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/2-linked-stack.md)
 
-- [队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/ch3/ch3-3.md)
+- [队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/3-quence.md)
 
 - [循环队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/4-circular-quence.md)
 
