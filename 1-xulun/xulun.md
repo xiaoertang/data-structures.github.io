@@ -58,5 +58,5 @@
 
 ### [目录](https://github.com/xiaoertang/data-structures.github.io/blob/master/catalog/catalog.md)
 
-### 下一章：[顺序表](https://github.com/xiaoertang/data-structures.github.io/blob/master/ch2/ch2-1.md)
+### 下一章：[顺序表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/1-sequence-list.md)
 
