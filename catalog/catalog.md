@@ -10,18 +10,18 @@
 
 - [单链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/2-linked-list.md)
 
-- [双向链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-circular-linkage.md)
+- [双向链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-doubly-linked-list.md)
 
-- [循环链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/4-double-linked-list)
+- [循环链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/4-doubly-linked-list)
 
 ## 第三章：栈和队列
 
-- [顺序栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/1-sequence-stack.md)
-- [链栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/2-linked-stack.md)
+- [顺序栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-queue/1-sequence-stack.md)
+- [链栈](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-queue/2-linked-stack.md)
 
-- [队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/3-quence.md)
+- [队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-queue/3-queue.md)
 
-- [循环队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-quence/4-circular-quence.md)
+- [循环队列](https://github.com/xiaoertang/data-structures.github.io/blob/master/3-stack-and-queue/4-cyclic-queue.md)
 
 ## 第四章：
 
