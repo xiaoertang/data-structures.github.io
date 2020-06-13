@@ -10,9 +10,9 @@
 
 - [单链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/2-linked-list.md)
 
-- [双向链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-doubly-linked-list.md)
+- [双向链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-double-linked-list.md)
 
-- [循环链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/4-doubly-linked-list)
+- [循环链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/4-circular-linked-list)
 
 ## 第三章：栈和队列
 
