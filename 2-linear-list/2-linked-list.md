@@ -76,9 +76,9 @@
 
 ![113](http://a1.qpic.cn/psc?/V13qV41h2syAL4/zfrllz9Q9AzvUwq**DIV0zmfiu1Epq5SiqG8Ai5TLXlDaEEaKp6XaYt49BAAiwFYLmk5P.J.Ib*EUqnom*7CwA!!/c&ek=1&kp=1&pt=0&bo=ZAOOAQAAAAARF8g!&tl=3&vuin=1298840110&tm=1592121600&sce=60-2-2&rf=0-0)
 
-### [目录]((https://github.com/xiaoertang/data-structures.github.io/blob/master/catalog/catalog.md)
+### [目录](https://github.com/xiaoertang/data-structures.github.io/blob/master/catalog/catalog.md)
 
 ### 上一节：[顺序表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/1-sequence-list.md)
 
-### 下一节：[双向链表]((https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-double-linked-list.md)
+### 下一节：[双向链表](https://github.com/xiaoertang/data-structures.github.io/blob/master/2-linear-list/3-double-linked-list.md)
 
